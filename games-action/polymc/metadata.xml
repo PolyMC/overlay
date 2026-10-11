@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+  <maintainer type="person">
+    <email>crueter@crueter.xyz</email>
+    <name>crueter</name>
+  </maintainer>
+  <upstream>
+    <bugs-to>https://github.com/PolyMC/PolyMC/issues</bugs-to>
+    <doc>https://polymc.org/wiki/</doc>
+    <remote-id type="github">PolyMC/PolyMC</remote-id>
+  </upstream>
+  <longdescription>PolyMC is a multi-instance Minecraft launcher focused on user freedom, redistributability, and simplicity.</longdescription>
+</pkgmetadata>
