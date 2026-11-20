@@ -98,7 +98,7 @@ src_configure(){
 		-DLauncher_APP_BINARY_NAME="${PN}"
 
 		-DENABLE_LTO=$(usex lto)
-		-DBUILD_TESTING=$(usex test
+		-DBUILD_TESTING=$(usex test)
 	)
 
 	cmake_src_configure
