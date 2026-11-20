@@ -49,6 +49,7 @@ MIN_QT="6.4.0"
 QT_DEPS="
 	>=dev-qt/qtbase-${MIN_QT}:6[concurrent,gui,network,widgets,xml]
 	>=dev-qt/qt5compat-${MIN_QT}:6
+	>=dev-qt/qtcharts-${MIN_QT}:6
 "
 
 # Required at both build-time and run-time
